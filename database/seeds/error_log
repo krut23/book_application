@@ -1,0 +1,240 @@
+[26-Dec-2023 02:41:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/DatabaseSeeder.php on line 5
+[26-Dec-2023 02:41:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/DatabaseSeeder.php on line 5
+[26-Dec-2023 02:41:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/PermissionsTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/PermissionsTableSeeder.php on line 5
+[26-Dec-2023 02:41:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/PermissionsTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/PermissionsTableSeeder.php on line 5
+[26-Dec-2023 02:41:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/RoleUserTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/RoleUserTableSeeder.php on line 5
+[26-Dec-2023 02:41:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/RoleUserTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/RoleUserTableSeeder.php on line 5
+[26-Dec-2023 02:41:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/RolesTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/RolesTableSeeder.php on line 5
+[26-Dec-2023 02:41:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/RolesTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/RolesTableSeeder.php on line 5
+[26-Dec-2023 02:41:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/StaticDataTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/StaticDataTableSeeder.php on line 5
+[26-Dec-2023 02:41:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/StaticDataTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/StaticDataTableSeeder.php on line 5
+[26-Dec-2023 02:41:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/UsersTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/UsersTableSeeder.php on line 5
+[26-Dec-2023 02:41:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/UsersTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/UsersTableSeeder.php on line 5
+[26-Dec-2023 04:13:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/DatabaseSeeder.php on line 5
+[26-Dec-2023 04:13:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/DatabaseSeeder.php on line 5
+[26-Dec-2023 04:13:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/PermissionsTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/PermissionsTableSeeder.php on line 5
+[26-Dec-2023 04:13:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/PermissionsTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/PermissionsTableSeeder.php on line 5
+[26-Dec-2023 04:13:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/RoleUserTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/RoleUserTableSeeder.php on line 5
+[26-Dec-2023 04:13:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/RoleUserTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/RoleUserTableSeeder.php on line 5
+[26-Dec-2023 04:13:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/RolesTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/RolesTableSeeder.php on line 5
+[26-Dec-2023 04:13:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/RolesTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/RolesTableSeeder.php on line 5
+[26-Dec-2023 04:13:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/StaticDataTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/StaticDataTableSeeder.php on line 5
+[26-Dec-2023 04:13:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/StaticDataTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/StaticDataTableSeeder.php on line 5
+[26-Dec-2023 04:13:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/UsersTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/UsersTableSeeder.php on line 5
+[26-Dec-2023 04:13:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/UsersTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/UsersTableSeeder.php on line 5
+[26-Dec-2023 05:24:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/DatabaseSeeder.php on line 5
+[26-Dec-2023 05:24:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/DatabaseSeeder.php on line 5
+[26-Dec-2023 05:24:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/PermissionsTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/PermissionsTableSeeder.php on line 5
+[26-Dec-2023 05:24:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/PermissionsTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/PermissionsTableSeeder.php on line 5
+[26-Dec-2023 05:24:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/RoleUserTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/RoleUserTableSeeder.php on line 5
+[26-Dec-2023 05:24:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/RoleUserTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/RoleUserTableSeeder.php on line 5
+[26-Dec-2023 05:24:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/RolesTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/RolesTableSeeder.php on line 5
+[26-Dec-2023 05:24:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/RolesTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/RolesTableSeeder.php on line 5
+[26-Dec-2023 05:24:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/StaticDataTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/StaticDataTableSeeder.php on line 5
+[26-Dec-2023 05:24:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/StaticDataTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/StaticDataTableSeeder.php on line 5
+[26-Dec-2023 05:24:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/UsersTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/UsersTableSeeder.php on line 5
+[26-Dec-2023 05:24:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/UsersTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/UsersTableSeeder.php on line 5
+[26-Dec-2023 06:25:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/DatabaseSeeder.php on line 5
+[26-Dec-2023 06:25:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/DatabaseSeeder.php on line 5
+[26-Dec-2023 06:25:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/PermissionsTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/PermissionsTableSeeder.php on line 5
+[26-Dec-2023 06:25:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/PermissionsTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/PermissionsTableSeeder.php on line 5
+[26-Dec-2023 06:25:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/RoleUserTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/RoleUserTableSeeder.php on line 5
+[26-Dec-2023 06:25:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/RoleUserTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/RoleUserTableSeeder.php on line 5
+[26-Dec-2023 06:25:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/RolesTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/RolesTableSeeder.php on line 5
+[26-Dec-2023 06:25:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/RolesTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/RolesTableSeeder.php on line 5
+[26-Dec-2023 06:25:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/StaticDataTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/StaticDataTableSeeder.php on line 5
+[26-Dec-2023 06:25:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/StaticDataTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/StaticDataTableSeeder.php on line 5
+[26-Dec-2023 06:25:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/UsersTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/UsersTableSeeder.php on line 5
+[26-Dec-2023 06:25:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/UsersTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/UsersTableSeeder.php on line 5
+[26-Dec-2023 07:33:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/DatabaseSeeder.php on line 5
+[26-Dec-2023 07:33:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/PermissionsTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/PermissionsTableSeeder.php on line 5
+[26-Dec-2023 07:33:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/RoleUserTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/RoleUserTableSeeder.php on line 5
+[26-Dec-2023 07:33:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/RolesTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/RolesTableSeeder.php on line 5
+[26-Dec-2023 07:33:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/StaticDataTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/StaticDataTableSeeder.php on line 5
+[26-Dec-2023 07:33:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/UsersTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/UsersTableSeeder.php on line 5
+[26-Dec-2023 07:50:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/DatabaseSeeder.php on line 5
+[26-Dec-2023 07:50:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/PermissionsTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/PermissionsTableSeeder.php on line 5
+[26-Dec-2023 07:50:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/RoleUserTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/RoleUserTableSeeder.php on line 5
+[26-Dec-2023 07:50:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/RolesTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/RolesTableSeeder.php on line 5
+[26-Dec-2023 07:50:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/StaticDataTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/StaticDataTableSeeder.php on line 5
+[26-Dec-2023 07:50:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ramkabirbharat/public_html/database/seeds/UsersTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/seeds/UsersTableSeeder.php on line 5

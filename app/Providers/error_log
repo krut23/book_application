@@ -1,0 +1,280 @@
+[26-Dec-2023 02:39:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/AppServiceProvider.php on line 7
+[26-Dec-2023 02:39:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/AppServiceProvider.php on line 7
+[26-Dec-2023 02:39:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/AuthServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/AuthServiceProvider.php on line 9
+[26-Dec-2023 02:39:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/AuthServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/AuthServiceProvider.php on line 9
+[26-Dec-2023 02:39:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/BroadcastServiceProvider.php on line 8
+[26-Dec-2023 02:39:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/BroadcastServiceProvider.php on line 8
+[26-Dec-2023 02:39:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\EventServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/EventServiceProvider.php on line 10
+[26-Dec-2023 02:39:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\EventServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/EventServiceProvider.php on line 10
+[26-Dec-2023 02:39:57 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Horizon\HorizonApplicationServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/HorizonServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/HorizonServiceProvider.php on line 9
+[26-Dec-2023 02:39:59 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Horizon\HorizonApplicationServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/HorizonServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/HorizonServiceProvider.php on line 9
+[26-Dec-2023 02:40:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/RouteServiceProvider.php on line 8
+[26-Dec-2023 02:40:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/RouteServiceProvider.php on line 8
+[26-Dec-2023 02:40:02 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Telescope\TelescopeApplicationServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/TelescopeServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/TelescopeServiceProvider.php on line 10
+[26-Dec-2023 02:40:03 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Telescope\TelescopeApplicationServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/TelescopeServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/TelescopeServiceProvider.php on line 10
+[26-Dec-2023 04:12:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/AppServiceProvider.php on line 7
+[26-Dec-2023 04:12:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/AppServiceProvider.php on line 7
+[26-Dec-2023 04:12:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/AuthServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/AuthServiceProvider.php on line 9
+[26-Dec-2023 04:12:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/AuthServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/AuthServiceProvider.php on line 9
+[26-Dec-2023 04:12:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/BroadcastServiceProvider.php on line 8
+[26-Dec-2023 04:12:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/BroadcastServiceProvider.php on line 8
+[26-Dec-2023 04:12:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\EventServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/EventServiceProvider.php on line 10
+[26-Dec-2023 04:12:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\EventServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/EventServiceProvider.php on line 10
+[26-Dec-2023 04:12:11 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Horizon\HorizonApplicationServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/HorizonServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/HorizonServiceProvider.php on line 9
+[26-Dec-2023 04:12:13 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Horizon\HorizonApplicationServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/HorizonServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/HorizonServiceProvider.php on line 9
+[26-Dec-2023 04:12:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/RouteServiceProvider.php on line 8
+[26-Dec-2023 04:12:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/RouteServiceProvider.php on line 8
+[26-Dec-2023 04:12:14 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Telescope\TelescopeApplicationServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/TelescopeServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/TelescopeServiceProvider.php on line 10
+[26-Dec-2023 04:12:16 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Telescope\TelescopeApplicationServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/TelescopeServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/TelescopeServiceProvider.php on line 10
+[26-Dec-2023 05:22:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/AppServiceProvider.php on line 7
+[26-Dec-2023 05:22:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/AppServiceProvider.php on line 7
+[26-Dec-2023 05:22:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/AuthServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/AuthServiceProvider.php on line 9
+[26-Dec-2023 05:22:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/AuthServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/AuthServiceProvider.php on line 9
+[26-Dec-2023 05:22:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/BroadcastServiceProvider.php on line 8
+[26-Dec-2023 05:22:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/BroadcastServiceProvider.php on line 8
+[26-Dec-2023 05:22:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\EventServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/EventServiceProvider.php on line 10
+[26-Dec-2023 05:22:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\EventServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/EventServiceProvider.php on line 10
+[26-Dec-2023 05:22:46 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Horizon\HorizonApplicationServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/HorizonServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/HorizonServiceProvider.php on line 9
+[26-Dec-2023 05:22:47 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Horizon\HorizonApplicationServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/HorizonServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/HorizonServiceProvider.php on line 9
+[26-Dec-2023 05:22:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/RouteServiceProvider.php on line 8
+[26-Dec-2023 05:22:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/RouteServiceProvider.php on line 8
+[26-Dec-2023 05:22:50 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Telescope\TelescopeApplicationServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/TelescopeServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/TelescopeServiceProvider.php on line 10
+[26-Dec-2023 05:22:51 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Telescope\TelescopeApplicationServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/TelescopeServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/TelescopeServiceProvider.php on line 10
+[26-Dec-2023 06:23:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/AppServiceProvider.php on line 7
+[26-Dec-2023 06:23:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/AppServiceProvider.php on line 7
+[26-Dec-2023 06:23:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/AuthServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/AuthServiceProvider.php on line 9
+[26-Dec-2023 06:23:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/AuthServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/AuthServiceProvider.php on line 9
+[26-Dec-2023 06:23:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/BroadcastServiceProvider.php on line 8
+[26-Dec-2023 06:23:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/BroadcastServiceProvider.php on line 8
+[26-Dec-2023 06:23:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\EventServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/EventServiceProvider.php on line 10
+[26-Dec-2023 06:23:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\EventServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/EventServiceProvider.php on line 10
+[26-Dec-2023 06:23:27 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Horizon\HorizonApplicationServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/HorizonServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/HorizonServiceProvider.php on line 9
+[26-Dec-2023 06:23:29 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Horizon\HorizonApplicationServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/HorizonServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/HorizonServiceProvider.php on line 9
+[26-Dec-2023 06:23:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/RouteServiceProvider.php on line 8
+[26-Dec-2023 06:23:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/RouteServiceProvider.php on line 8
+[26-Dec-2023 06:23:31 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Telescope\TelescopeApplicationServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/TelescopeServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/TelescopeServiceProvider.php on line 10
+[26-Dec-2023 06:23:33 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Telescope\TelescopeApplicationServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/TelescopeServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/TelescopeServiceProvider.php on line 10
+[26-Dec-2023 07:28:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/AppServiceProvider.php on line 7
+[26-Dec-2023 07:28:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/AuthServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/AuthServiceProvider.php on line 9
+[26-Dec-2023 07:28:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/BroadcastServiceProvider.php on line 8
+[26-Dec-2023 07:28:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\EventServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/EventServiceProvider.php on line 10
+[26-Dec-2023 07:28:30 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Horizon\HorizonApplicationServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/HorizonServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/HorizonServiceProvider.php on line 9
+[26-Dec-2023 07:28:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/RouteServiceProvider.php on line 8
+[26-Dec-2023 07:28:32 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Telescope\TelescopeApplicationServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/TelescopeServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/TelescopeServiceProvider.php on line 10
+[26-Dec-2023 07:33:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/AppServiceProvider.php on line 7
+[26-Dec-2023 07:33:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/AuthServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/AuthServiceProvider.php on line 9
+[26-Dec-2023 07:33:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/BroadcastServiceProvider.php on line 8
+[26-Dec-2023 07:34:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\EventServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/EventServiceProvider.php on line 10
+[26-Dec-2023 07:36:37 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Horizon\HorizonApplicationServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/HorizonServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/HorizonServiceProvider.php on line 9
+[26-Dec-2023 07:36:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/RouteServiceProvider.php on line 8
+[26-Dec-2023 07:36:51 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Telescope\TelescopeApplicationServiceProvider" not found in /home/ramkabirbharat/public_html/app/Providers/TelescopeServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Providers/TelescopeServiceProvider.php on line 10

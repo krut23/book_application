@@ -1,0 +1,40 @@
+[26-Dec-2023 02:39:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home/ramkabirbharat/public_html/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Console/Kernel.php on line 8
+[26-Dec-2023 02:39:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home/ramkabirbharat/public_html/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Console/Kernel.php on line 8
+[26-Dec-2023 04:11:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home/ramkabirbharat/public_html/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Console/Kernel.php on line 8
+[26-Dec-2023 04:11:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home/ramkabirbharat/public_html/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Console/Kernel.php on line 8
+[26-Dec-2023 05:22:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home/ramkabirbharat/public_html/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Console/Kernel.php on line 8
+[26-Dec-2023 05:22:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home/ramkabirbharat/public_html/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Console/Kernel.php on line 8
+[26-Dec-2023 06:22:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home/ramkabirbharat/public_html/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Console/Kernel.php on line 8
+[26-Dec-2023 06:22:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home/ramkabirbharat/public_html/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Console/Kernel.php on line 8
+[26-Dec-2023 07:27:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home/ramkabirbharat/public_html/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Console/Kernel.php on line 8
+[26-Dec-2023 07:31:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home/ramkabirbharat/public_html/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Console/Kernel.php on line 8

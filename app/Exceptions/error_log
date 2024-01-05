@@ -1,0 +1,40 @@
+[26-Dec-2023 02:39:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Exceptions\Handler" not found in /home/ramkabirbharat/public_html/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Exceptions/Handler.php on line 8
+[26-Dec-2023 02:39:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Exceptions\Handler" not found in /home/ramkabirbharat/public_html/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Exceptions/Handler.php on line 8
+[26-Dec-2023 04:11:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Exceptions\Handler" not found in /home/ramkabirbharat/public_html/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Exceptions/Handler.php on line 8
+[26-Dec-2023 04:11:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Exceptions\Handler" not found in /home/ramkabirbharat/public_html/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Exceptions/Handler.php on line 8
+[26-Dec-2023 05:22:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Exceptions\Handler" not found in /home/ramkabirbharat/public_html/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Exceptions/Handler.php on line 8
+[26-Dec-2023 05:22:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Exceptions\Handler" not found in /home/ramkabirbharat/public_html/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Exceptions/Handler.php on line 8
+[26-Dec-2023 06:23:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Exceptions\Handler" not found in /home/ramkabirbharat/public_html/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Exceptions/Handler.php on line 8
+[26-Dec-2023 06:23:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Exceptions\Handler" not found in /home/ramkabirbharat/public_html/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Exceptions/Handler.php on line 8
+[26-Dec-2023 07:27:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Exceptions\Handler" not found in /home/ramkabirbharat/public_html/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Exceptions/Handler.php on line 8
+[26-Dec-2023 07:31:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Exceptions\Handler" not found in /home/ramkabirbharat/public_html/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Exceptions/Handler.php on line 8

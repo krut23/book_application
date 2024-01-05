@@ -1,0 +1,1200 @@
+[26-Dec-2023 02:40:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000000_create_verification_code_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000000_create_verification_code_table.php on line 7
+[26-Dec-2023 02:40:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000000_create_verification_code_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000000_create_verification_code_table.php on line 7
+[26-Dec-2023 02:40:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000001_create_feedback_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000001_create_feedback_table.php on line 7
+[26-Dec-2023 02:40:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000001_create_feedback_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000001_create_feedback_table.php on line 7
+[26-Dec-2023 02:40:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000002_create_role_user_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000002_create_role_user_table.php on line 7
+[26-Dec-2023 02:40:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000002_create_role_user_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000002_create_role_user_table.php on line 7
+[26-Dec-2023 02:40:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000003_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000003_create_password_resets_table.php on line 7
+[26-Dec-2023 02:40:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000003_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000003_create_password_resets_table.php on line 7
+[26-Dec-2023 02:40:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000004_create_app_setting_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000004_create_app_setting_table.php on line 7
+[26-Dec-2023 02:40:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000004_create_app_setting_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000004_create_app_setting_table.php on line 7
+[26-Dec-2023 02:40:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000006_create_sub_category_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000006_create_sub_category_table.php on line 7
+[26-Dec-2023 02:40:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000006_create_sub_category_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000006_create_sub_category_table.php on line 7
+[26-Dec-2023 02:40:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000007_create_category_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000007_create_category_table.php on line 7
+[26-Dec-2023 02:40:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000007_create_category_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000007_create_category_table.php on line 7
+[26-Dec-2023 02:40:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000008_create_author_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000008_create_author_table.php on line 7
+[26-Dec-2023 02:40:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000008_create_author_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000008_create_author_table.php on line 7
+[26-Dec-2023 02:40:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000009_create_media_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000009_create_media_table.php on line 7
+[26-Dec-2023 02:40:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000009_create_media_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000009_create_media_table.php on line 7
+[26-Dec-2023 02:40:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000011_create_book_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000011_create_book_table.php on line 7
+[26-Dec-2023 02:40:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000011_create_book_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000011_create_book_table.php on line 7
+[26-Dec-2023 02:40:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000012_create_activity_log_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000012_create_activity_log_table.php on line 7
+[26-Dec-2023 02:40:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000012_create_activity_log_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000012_create_activity_log_table.php on line 7
+[26-Dec-2023 02:40:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000014_create_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000014_create_jobs_table.php on line 7
+[26-Dec-2023 02:40:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000014_create_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000014_create_jobs_table.php on line 7
+[26-Dec-2023 02:40:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000015_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000015_create_users_table.php on line 7
+[26-Dec-2023 02:40:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000015_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000015_create_users_table.php on line 7
+[26-Dec-2023 02:40:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000016_create_transactions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000016_create_transactions_table.php on line 7
+[26-Dec-2023 02:40:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000016_create_transactions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000016_create_transactions_table.php on line 7
+[26-Dec-2023 02:40:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000018_create_user_wishlist_book_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000018_create_user_wishlist_book_table.php on line 7
+[26-Dec-2023 02:40:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000018_create_user_wishlist_book_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000018_create_user_wishlist_book_table.php on line 7
+[26-Dec-2023 02:40:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000019_create_permissions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000019_create_permissions_table.php on line 7
+[26-Dec-2023 02:40:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000019_create_permissions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000019_create_permissions_table.php on line 7
+[26-Dec-2023 02:40:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000020_create_user_cart_mapping_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000020_create_user_cart_mapping_table.php on line 7
+[26-Dec-2023 02:41:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000020_create_user_cart_mapping_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000020_create_user_cart_mapping_table.php on line 7
+[26-Dec-2023 02:41:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000021_create_roles_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000021_create_roles_table.php on line 7
+[26-Dec-2023 02:41:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000021_create_roles_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000021_create_roles_table.php on line 7
+[26-Dec-2023 02:41:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000022_create_settings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000022_create_settings_table.php on line 7
+[26-Dec-2023 02:41:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000022_create_settings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000022_create_settings_table.php on line 7
+[26-Dec-2023 02:41:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000023_create_static_data_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000023_create_static_data_table.php on line 7
+[26-Dec-2023 02:41:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000023_create_static_data_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000023_create_static_data_table.php on line 7
+[26-Dec-2023 02:41:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000024_create_mail_template_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000024_create_mail_template_table.php on line 7
+[26-Dec-2023 02:41:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000024_create_mail_template_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000024_create_mail_template_table.php on line 7
+[26-Dec-2023 02:41:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000025_create_book_rating_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000025_create_book_rating_table.php on line 7
+[26-Dec-2023 02:41:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000025_create_book_rating_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000025_create_book_rating_table.php on line 7
+[26-Dec-2023 02:41:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000028_create_routes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000028_create_routes_table.php on line 7
+[26-Dec-2023 02:41:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000028_create_routes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000028_create_routes_table.php on line 7
+[26-Dec-2023 02:41:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000029_create_transactions_detail_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000029_create_transactions_detail_table.php on line 7
+[26-Dec-2023 02:41:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000029_create_transactions_detail_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000029_create_transactions_detail_table.php on line 7
+[26-Dec-2023 02:41:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000030_create_mobile_slider_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000030_create_mobile_slider_table.php on line 7
+[26-Dec-2023 02:41:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000030_create_mobile_slider_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000030_create_mobile_slider_table.php on line 7
+[26-Dec-2023 02:41:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055112_create_auth_codes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055112_create_auth_codes_table.php on line 7
+[26-Dec-2023 02:41:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055112_create_auth_codes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055112_create_auth_codes_table.php on line 7
+[26-Dec-2023 02:41:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055358_create_auth_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055358_create_auth_access_tokens_table.php on line 7
+[26-Dec-2023 02:41:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055358_create_auth_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055358_create_auth_access_tokens_table.php on line 7
+[26-Dec-2023 02:41:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055504_create_auth_refresh_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055504_create_auth_refresh_tokens_table.php on line 7
+[26-Dec-2023 02:41:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055504_create_auth_refresh_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055504_create_auth_refresh_tokens_table.php on line 7
+[26-Dec-2023 02:41:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055740_create_auth_clients_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055740_create_auth_clients_table.php on line 7
+[26-Dec-2023 02:41:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055740_create_auth_clients_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055740_create_auth_clients_table.php on line 7
+[26-Dec-2023 02:41:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055852_create_auth_personal_access_clients_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055852_create_auth_personal_access_clients_table.php on line 7
+[26-Dec-2023 02:41:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055852_create_auth_personal_access_clients_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055852_create_auth_personal_access_clients_table.php on line 7
+[26-Dec-2023 04:12:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000000_create_verification_code_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000000_create_verification_code_table.php on line 7
+[26-Dec-2023 04:12:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000000_create_verification_code_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000000_create_verification_code_table.php on line 7
+[26-Dec-2023 04:12:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000001_create_feedback_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000001_create_feedback_table.php on line 7
+[26-Dec-2023 04:12:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000001_create_feedback_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000001_create_feedback_table.php on line 7
+[26-Dec-2023 04:12:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000002_create_role_user_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000002_create_role_user_table.php on line 7
+[26-Dec-2023 04:12:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000002_create_role_user_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000002_create_role_user_table.php on line 7
+[26-Dec-2023 04:12:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000003_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000003_create_password_resets_table.php on line 7
+[26-Dec-2023 04:12:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000003_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000003_create_password_resets_table.php on line 7
+[26-Dec-2023 04:12:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000004_create_app_setting_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000004_create_app_setting_table.php on line 7
+[26-Dec-2023 04:12:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000004_create_app_setting_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000004_create_app_setting_table.php on line 7
+[26-Dec-2023 04:12:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000006_create_sub_category_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000006_create_sub_category_table.php on line 7
+[26-Dec-2023 04:12:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000006_create_sub_category_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000006_create_sub_category_table.php on line 7
+[26-Dec-2023 04:12:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000007_create_category_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000007_create_category_table.php on line 7
+[26-Dec-2023 04:12:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000007_create_category_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000007_create_category_table.php on line 7
+[26-Dec-2023 04:12:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000008_create_author_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000008_create_author_table.php on line 7
+[26-Dec-2023 04:12:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000008_create_author_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000008_create_author_table.php on line 7
+[26-Dec-2023 04:12:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000009_create_media_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000009_create_media_table.php on line 7
+[26-Dec-2023 04:12:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000009_create_media_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000009_create_media_table.php on line 7
+[26-Dec-2023 04:12:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000011_create_book_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000011_create_book_table.php on line 7
+[26-Dec-2023 04:12:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000011_create_book_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000011_create_book_table.php on line 7
+[26-Dec-2023 04:12:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000012_create_activity_log_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000012_create_activity_log_table.php on line 7
+[26-Dec-2023 04:12:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000012_create_activity_log_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000012_create_activity_log_table.php on line 7
+[26-Dec-2023 04:12:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000014_create_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000014_create_jobs_table.php on line 7
+[26-Dec-2023 04:12:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000014_create_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000014_create_jobs_table.php on line 7
+[26-Dec-2023 04:12:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000015_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000015_create_users_table.php on line 7
+[26-Dec-2023 04:12:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000015_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000015_create_users_table.php on line 7
+[26-Dec-2023 04:12:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000016_create_transactions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000016_create_transactions_table.php on line 7
+[26-Dec-2023 04:12:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000016_create_transactions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000016_create_transactions_table.php on line 7
+[26-Dec-2023 04:12:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000018_create_user_wishlist_book_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000018_create_user_wishlist_book_table.php on line 7
+[26-Dec-2023 04:12:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000018_create_user_wishlist_book_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000018_create_user_wishlist_book_table.php on line 7
+[26-Dec-2023 04:12:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000019_create_permissions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000019_create_permissions_table.php on line 7
+[26-Dec-2023 04:12:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000019_create_permissions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000019_create_permissions_table.php on line 7
+[26-Dec-2023 04:12:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000020_create_user_cart_mapping_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000020_create_user_cart_mapping_table.php on line 7
+[26-Dec-2023 04:12:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000020_create_user_cart_mapping_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000020_create_user_cart_mapping_table.php on line 7
+[26-Dec-2023 04:12:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000021_create_roles_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000021_create_roles_table.php on line 7
+[26-Dec-2023 04:12:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000021_create_roles_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000021_create_roles_table.php on line 7
+[26-Dec-2023 04:12:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000022_create_settings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000022_create_settings_table.php on line 7
+[26-Dec-2023 04:12:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000022_create_settings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000022_create_settings_table.php on line 7
+[26-Dec-2023 04:12:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000023_create_static_data_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000023_create_static_data_table.php on line 7
+[26-Dec-2023 04:12:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000023_create_static_data_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000023_create_static_data_table.php on line 7
+[26-Dec-2023 04:12:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000024_create_mail_template_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000024_create_mail_template_table.php on line 7
+[26-Dec-2023 04:12:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000024_create_mail_template_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000024_create_mail_template_table.php on line 7
+[26-Dec-2023 04:12:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000025_create_book_rating_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000025_create_book_rating_table.php on line 7
+[26-Dec-2023 04:12:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000025_create_book_rating_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000025_create_book_rating_table.php on line 7
+[26-Dec-2023 04:12:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000028_create_routes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000028_create_routes_table.php on line 7
+[26-Dec-2023 04:13:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000028_create_routes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000028_create_routes_table.php on line 7
+[26-Dec-2023 04:13:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000029_create_transactions_detail_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000029_create_transactions_detail_table.php on line 7
+[26-Dec-2023 04:13:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000029_create_transactions_detail_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000029_create_transactions_detail_table.php on line 7
+[26-Dec-2023 04:13:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000030_create_mobile_slider_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000030_create_mobile_slider_table.php on line 7
+[26-Dec-2023 04:13:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000030_create_mobile_slider_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000030_create_mobile_slider_table.php on line 7
+[26-Dec-2023 04:13:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055112_create_auth_codes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055112_create_auth_codes_table.php on line 7
+[26-Dec-2023 04:13:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055112_create_auth_codes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055112_create_auth_codes_table.php on line 7
+[26-Dec-2023 04:13:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055358_create_auth_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055358_create_auth_access_tokens_table.php on line 7
+[26-Dec-2023 04:13:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055358_create_auth_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055358_create_auth_access_tokens_table.php on line 7
+[26-Dec-2023 04:13:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055504_create_auth_refresh_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055504_create_auth_refresh_tokens_table.php on line 7
+[26-Dec-2023 04:13:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055504_create_auth_refresh_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055504_create_auth_refresh_tokens_table.php on line 7
+[26-Dec-2023 04:13:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055740_create_auth_clients_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055740_create_auth_clients_table.php on line 7
+[26-Dec-2023 04:13:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055740_create_auth_clients_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055740_create_auth_clients_table.php on line 7
+[26-Dec-2023 04:13:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055852_create_auth_personal_access_clients_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055852_create_auth_personal_access_clients_table.php on line 7
+[26-Dec-2023 04:13:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055852_create_auth_personal_access_clients_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055852_create_auth_personal_access_clients_table.php on line 7
+[26-Dec-2023 05:23:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000000_create_verification_code_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000000_create_verification_code_table.php on line 7
+[26-Dec-2023 05:23:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000000_create_verification_code_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000000_create_verification_code_table.php on line 7
+[26-Dec-2023 05:23:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000001_create_feedback_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000001_create_feedback_table.php on line 7
+[26-Dec-2023 05:23:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000001_create_feedback_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000001_create_feedback_table.php on line 7
+[26-Dec-2023 05:23:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000002_create_role_user_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000002_create_role_user_table.php on line 7
+[26-Dec-2023 05:23:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000002_create_role_user_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000002_create_role_user_table.php on line 7
+[26-Dec-2023 05:23:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000003_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000003_create_password_resets_table.php on line 7
+[26-Dec-2023 05:23:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000003_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000003_create_password_resets_table.php on line 7
+[26-Dec-2023 05:23:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000004_create_app_setting_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000004_create_app_setting_table.php on line 7
+[26-Dec-2023 05:23:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000004_create_app_setting_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000004_create_app_setting_table.php on line 7
+[26-Dec-2023 05:23:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000006_create_sub_category_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000006_create_sub_category_table.php on line 7
+[26-Dec-2023 05:23:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000006_create_sub_category_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000006_create_sub_category_table.php on line 7
+[26-Dec-2023 05:23:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000007_create_category_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000007_create_category_table.php on line 7
+[26-Dec-2023 05:23:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000007_create_category_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000007_create_category_table.php on line 7
+[26-Dec-2023 05:23:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000008_create_author_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000008_create_author_table.php on line 7
+[26-Dec-2023 05:23:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000008_create_author_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000008_create_author_table.php on line 7
+[26-Dec-2023 05:23:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000009_create_media_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000009_create_media_table.php on line 7
+[26-Dec-2023 05:23:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000009_create_media_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000009_create_media_table.php on line 7
+[26-Dec-2023 05:23:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000011_create_book_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000011_create_book_table.php on line 7
+[26-Dec-2023 05:23:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000011_create_book_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000011_create_book_table.php on line 7
+[26-Dec-2023 05:23:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000012_create_activity_log_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000012_create_activity_log_table.php on line 7
+[26-Dec-2023 05:23:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000012_create_activity_log_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000012_create_activity_log_table.php on line 7
+[26-Dec-2023 05:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000014_create_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000014_create_jobs_table.php on line 7
+[26-Dec-2023 05:23:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000014_create_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000014_create_jobs_table.php on line 7
+[26-Dec-2023 05:23:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000015_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000015_create_users_table.php on line 7
+[26-Dec-2023 05:23:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000015_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000015_create_users_table.php on line 7
+[26-Dec-2023 05:23:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000016_create_transactions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000016_create_transactions_table.php on line 7
+[26-Dec-2023 05:23:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000016_create_transactions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000016_create_transactions_table.php on line 7
+[26-Dec-2023 05:23:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000018_create_user_wishlist_book_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000018_create_user_wishlist_book_table.php on line 7
+[26-Dec-2023 05:23:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000018_create_user_wishlist_book_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000018_create_user_wishlist_book_table.php on line 7
+[26-Dec-2023 05:23:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000019_create_permissions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000019_create_permissions_table.php on line 7
+[26-Dec-2023 05:23:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000019_create_permissions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000019_create_permissions_table.php on line 7
+[26-Dec-2023 05:23:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000020_create_user_cart_mapping_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000020_create_user_cart_mapping_table.php on line 7
+[26-Dec-2023 05:23:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000020_create_user_cart_mapping_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000020_create_user_cart_mapping_table.php on line 7
+[26-Dec-2023 05:23:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000021_create_roles_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000021_create_roles_table.php on line 7
+[26-Dec-2023 05:23:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000021_create_roles_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000021_create_roles_table.php on line 7
+[26-Dec-2023 05:23:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000022_create_settings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000022_create_settings_table.php on line 7
+[26-Dec-2023 05:23:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000022_create_settings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000022_create_settings_table.php on line 7
+[26-Dec-2023 05:23:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000023_create_static_data_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000023_create_static_data_table.php on line 7
+[26-Dec-2023 05:23:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000023_create_static_data_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000023_create_static_data_table.php on line 7
+[26-Dec-2023 05:23:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000024_create_mail_template_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000024_create_mail_template_table.php on line 7
+[26-Dec-2023 05:23:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000024_create_mail_template_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000024_create_mail_template_table.php on line 7
+[26-Dec-2023 05:23:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000025_create_book_rating_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000025_create_book_rating_table.php on line 7
+[26-Dec-2023 05:23:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000025_create_book_rating_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000025_create_book_rating_table.php on line 7
+[26-Dec-2023 05:23:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000028_create_routes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000028_create_routes_table.php on line 7
+[26-Dec-2023 05:23:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000028_create_routes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000028_create_routes_table.php on line 7
+[26-Dec-2023 05:23:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000029_create_transactions_detail_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000029_create_transactions_detail_table.php on line 7
+[26-Dec-2023 05:23:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000029_create_transactions_detail_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000029_create_transactions_detail_table.php on line 7
+[26-Dec-2023 05:23:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000030_create_mobile_slider_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000030_create_mobile_slider_table.php on line 7
+[26-Dec-2023 05:23:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000030_create_mobile_slider_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000030_create_mobile_slider_table.php on line 7
+[26-Dec-2023 05:23:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055112_create_auth_codes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055112_create_auth_codes_table.php on line 7
+[26-Dec-2023 05:24:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055112_create_auth_codes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055112_create_auth_codes_table.php on line 7
+[26-Dec-2023 05:24:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055358_create_auth_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055358_create_auth_access_tokens_table.php on line 7
+[26-Dec-2023 05:24:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055358_create_auth_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055358_create_auth_access_tokens_table.php on line 7
+[26-Dec-2023 05:24:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055504_create_auth_refresh_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055504_create_auth_refresh_tokens_table.php on line 7
+[26-Dec-2023 05:24:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055504_create_auth_refresh_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055504_create_auth_refresh_tokens_table.php on line 7
+[26-Dec-2023 05:24:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055740_create_auth_clients_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055740_create_auth_clients_table.php on line 7
+[26-Dec-2023 05:24:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055740_create_auth_clients_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055740_create_auth_clients_table.php on line 7
+[26-Dec-2023 05:24:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055852_create_auth_personal_access_clients_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055852_create_auth_personal_access_clients_table.php on line 7
+[26-Dec-2023 05:24:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055852_create_auth_personal_access_clients_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055852_create_auth_personal_access_clients_table.php on line 7
+[26-Dec-2023 06:23:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000000_create_verification_code_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000000_create_verification_code_table.php on line 7
+[26-Dec-2023 06:23:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000000_create_verification_code_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000000_create_verification_code_table.php on line 7
+[26-Dec-2023 06:23:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000001_create_feedback_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000001_create_feedback_table.php on line 7
+[26-Dec-2023 06:23:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000001_create_feedback_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000001_create_feedback_table.php on line 7
+[26-Dec-2023 06:23:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000002_create_role_user_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000002_create_role_user_table.php on line 7
+[26-Dec-2023 06:24:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000002_create_role_user_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000002_create_role_user_table.php on line 7
+[26-Dec-2023 06:24:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000003_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000003_create_password_resets_table.php on line 7
+[26-Dec-2023 06:24:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000003_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000003_create_password_resets_table.php on line 7
+[26-Dec-2023 06:24:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000004_create_app_setting_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000004_create_app_setting_table.php on line 7
+[26-Dec-2023 06:24:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000004_create_app_setting_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000004_create_app_setting_table.php on line 7
+[26-Dec-2023 06:24:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000006_create_sub_category_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000006_create_sub_category_table.php on line 7
+[26-Dec-2023 06:24:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000006_create_sub_category_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000006_create_sub_category_table.php on line 7
+[26-Dec-2023 06:24:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000007_create_category_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000007_create_category_table.php on line 7
+[26-Dec-2023 06:24:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000007_create_category_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000007_create_category_table.php on line 7
+[26-Dec-2023 06:24:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000008_create_author_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000008_create_author_table.php on line 7
+[26-Dec-2023 06:24:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000008_create_author_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000008_create_author_table.php on line 7
+[26-Dec-2023 06:24:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000009_create_media_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000009_create_media_table.php on line 7
+[26-Dec-2023 06:24:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000009_create_media_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000009_create_media_table.php on line 7
+[26-Dec-2023 06:24:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000011_create_book_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000011_create_book_table.php on line 7
+[26-Dec-2023 06:24:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000011_create_book_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000011_create_book_table.php on line 7
+[26-Dec-2023 06:24:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000012_create_activity_log_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000012_create_activity_log_table.php on line 7
+[26-Dec-2023 06:24:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000012_create_activity_log_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000012_create_activity_log_table.php on line 7
+[26-Dec-2023 06:24:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000014_create_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000014_create_jobs_table.php on line 7
+[26-Dec-2023 06:24:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000014_create_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000014_create_jobs_table.php on line 7
+[26-Dec-2023 06:24:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000015_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000015_create_users_table.php on line 7
+[26-Dec-2023 06:24:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000015_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000015_create_users_table.php on line 7
+[26-Dec-2023 06:24:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000016_create_transactions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000016_create_transactions_table.php on line 7
+[26-Dec-2023 06:24:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000016_create_transactions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000016_create_transactions_table.php on line 7
+[26-Dec-2023 06:24:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000018_create_user_wishlist_book_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000018_create_user_wishlist_book_table.php on line 7
+[26-Dec-2023 06:24:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000018_create_user_wishlist_book_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000018_create_user_wishlist_book_table.php on line 7
+[26-Dec-2023 06:24:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000019_create_permissions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000019_create_permissions_table.php on line 7
+[26-Dec-2023 06:24:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000019_create_permissions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000019_create_permissions_table.php on line 7
+[26-Dec-2023 06:24:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000020_create_user_cart_mapping_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000020_create_user_cart_mapping_table.php on line 7
+[26-Dec-2023 06:24:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000020_create_user_cart_mapping_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000020_create_user_cart_mapping_table.php on line 7
+[26-Dec-2023 06:24:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000021_create_roles_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000021_create_roles_table.php on line 7
+[26-Dec-2023 06:24:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000021_create_roles_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000021_create_roles_table.php on line 7
+[26-Dec-2023 06:24:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000022_create_settings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000022_create_settings_table.php on line 7
+[26-Dec-2023 06:24:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000022_create_settings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000022_create_settings_table.php on line 7
+[26-Dec-2023 06:24:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000023_create_static_data_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000023_create_static_data_table.php on line 7
+[26-Dec-2023 06:24:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000023_create_static_data_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000023_create_static_data_table.php on line 7
+[26-Dec-2023 06:24:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000024_create_mail_template_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000024_create_mail_template_table.php on line 7
+[26-Dec-2023 06:24:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000024_create_mail_template_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000024_create_mail_template_table.php on line 7
+[26-Dec-2023 06:24:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000025_create_book_rating_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000025_create_book_rating_table.php on line 7
+[26-Dec-2023 06:24:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000025_create_book_rating_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000025_create_book_rating_table.php on line 7
+[26-Dec-2023 06:24:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000028_create_routes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000028_create_routes_table.php on line 7
+[26-Dec-2023 06:24:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000028_create_routes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000028_create_routes_table.php on line 7
+[26-Dec-2023 06:24:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000029_create_transactions_detail_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000029_create_transactions_detail_table.php on line 7
+[26-Dec-2023 06:24:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000029_create_transactions_detail_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000029_create_transactions_detail_table.php on line 7
+[26-Dec-2023 06:24:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000030_create_mobile_slider_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000030_create_mobile_slider_table.php on line 7
+[26-Dec-2023 06:24:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000030_create_mobile_slider_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000030_create_mobile_slider_table.php on line 7
+[26-Dec-2023 06:24:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055112_create_auth_codes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055112_create_auth_codes_table.php on line 7
+[26-Dec-2023 06:24:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055112_create_auth_codes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055112_create_auth_codes_table.php on line 7
+[26-Dec-2023 06:24:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055358_create_auth_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055358_create_auth_access_tokens_table.php on line 7
+[26-Dec-2023 06:24:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055358_create_auth_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055358_create_auth_access_tokens_table.php on line 7
+[26-Dec-2023 06:24:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055504_create_auth_refresh_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055504_create_auth_refresh_tokens_table.php on line 7
+[26-Dec-2023 06:24:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055504_create_auth_refresh_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055504_create_auth_refresh_tokens_table.php on line 7
+[26-Dec-2023 06:24:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055740_create_auth_clients_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055740_create_auth_clients_table.php on line 7
+[26-Dec-2023 06:24:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055740_create_auth_clients_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055740_create_auth_clients_table.php on line 7
+[26-Dec-2023 06:24:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055852_create_auth_personal_access_clients_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055852_create_auth_personal_access_clients_table.php on line 7
+[26-Dec-2023 06:24:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055852_create_auth_personal_access_clients_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055852_create_auth_personal_access_clients_table.php on line 7
+[26-Dec-2023 07:32:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000000_create_verification_code_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000000_create_verification_code_table.php on line 7
+[26-Dec-2023 07:32:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000001_create_feedback_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000001_create_feedback_table.php on line 7
+[26-Dec-2023 07:32:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000002_create_role_user_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000002_create_role_user_table.php on line 7
+[26-Dec-2023 07:32:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000003_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000003_create_password_resets_table.php on line 7
+[26-Dec-2023 07:32:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000004_create_app_setting_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000004_create_app_setting_table.php on line 7
+[26-Dec-2023 07:32:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000006_create_sub_category_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000006_create_sub_category_table.php on line 7
+[26-Dec-2023 07:32:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000007_create_category_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000007_create_category_table.php on line 7
+[26-Dec-2023 07:32:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000008_create_author_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000008_create_author_table.php on line 7
+[26-Dec-2023 07:32:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000009_create_media_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000009_create_media_table.php on line 7
+[26-Dec-2023 07:32:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000011_create_book_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000011_create_book_table.php on line 7
+[26-Dec-2023 07:32:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000012_create_activity_log_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000012_create_activity_log_table.php on line 7
+[26-Dec-2023 07:32:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000014_create_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000014_create_jobs_table.php on line 7
+[26-Dec-2023 07:32:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000015_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000015_create_users_table.php on line 7
+[26-Dec-2023 07:32:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000016_create_transactions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000016_create_transactions_table.php on line 7
+[26-Dec-2023 07:32:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000018_create_user_wishlist_book_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000018_create_user_wishlist_book_table.php on line 7
+[26-Dec-2023 07:32:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000019_create_permissions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000019_create_permissions_table.php on line 7
+[26-Dec-2023 07:32:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000020_create_user_cart_mapping_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000020_create_user_cart_mapping_table.php on line 7
+[26-Dec-2023 07:32:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000021_create_roles_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000021_create_roles_table.php on line 7
+[26-Dec-2023 07:32:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000022_create_settings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000022_create_settings_table.php on line 7
+[26-Dec-2023 07:32:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000023_create_static_data_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000023_create_static_data_table.php on line 7
+[26-Dec-2023 07:32:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000024_create_mail_template_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000024_create_mail_template_table.php on line 7
+[26-Dec-2023 07:32:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000025_create_book_rating_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000025_create_book_rating_table.php on line 7
+[26-Dec-2023 07:33:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000028_create_routes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000028_create_routes_table.php on line 7
+[26-Dec-2023 07:33:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000029_create_transactions_detail_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000029_create_transactions_detail_table.php on line 7
+[26-Dec-2023 07:33:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000030_create_mobile_slider_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000030_create_mobile_slider_table.php on line 7
+[26-Dec-2023 07:33:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055112_create_auth_codes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055112_create_auth_codes_table.php on line 7
+[26-Dec-2023 07:33:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055358_create_auth_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055358_create_auth_access_tokens_table.php on line 7
+[26-Dec-2023 07:33:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055504_create_auth_refresh_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055504_create_auth_refresh_tokens_table.php on line 7
+[26-Dec-2023 07:33:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055740_create_auth_clients_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055740_create_auth_clients_table.php on line 7
+[26-Dec-2023 07:33:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055852_create_auth_personal_access_clients_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055852_create_auth_personal_access_clients_table.php on line 7
+[26-Dec-2023 07:47:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000000_create_verification_code_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000000_create_verification_code_table.php on line 7
+[26-Dec-2023 07:47:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000001_create_feedback_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000001_create_feedback_table.php on line 7
+[26-Dec-2023 07:47:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000002_create_role_user_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000002_create_role_user_table.php on line 7
+[26-Dec-2023 07:47:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000003_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000003_create_password_resets_table.php on line 7
+[26-Dec-2023 07:47:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000004_create_app_setting_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000004_create_app_setting_table.php on line 7
+[26-Dec-2023 07:47:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000006_create_sub_category_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000006_create_sub_category_table.php on line 7
+[26-Dec-2023 07:47:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000007_create_category_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000007_create_category_table.php on line 7
+[26-Dec-2023 07:47:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000008_create_author_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000008_create_author_table.php on line 7
+[26-Dec-2023 07:47:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000009_create_media_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000009_create_media_table.php on line 7
+[26-Dec-2023 07:47:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000011_create_book_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000011_create_book_table.php on line 7
+[26-Dec-2023 07:47:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000012_create_activity_log_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000012_create_activity_log_table.php on line 7
+[26-Dec-2023 07:48:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000014_create_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000014_create_jobs_table.php on line 7
+[26-Dec-2023 07:48:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000015_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000015_create_users_table.php on line 7
+[26-Dec-2023 07:48:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000016_create_transactions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000016_create_transactions_table.php on line 7
+[26-Dec-2023 07:49:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000018_create_user_wishlist_book_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000018_create_user_wishlist_book_table.php on line 7
+[26-Dec-2023 07:49:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000019_create_permissions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000019_create_permissions_table.php on line 7
+[26-Dec-2023 07:49:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000020_create_user_cart_mapping_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000020_create_user_cart_mapping_table.php on line 7
+[26-Dec-2023 07:49:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000021_create_roles_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000021_create_roles_table.php on line 7
+[26-Dec-2023 07:49:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000022_create_settings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000022_create_settings_table.php on line 7
+[26-Dec-2023 07:49:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000023_create_static_data_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000023_create_static_data_table.php on line 7
+[26-Dec-2023 07:49:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000024_create_mail_template_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000024_create_mail_template_table.php on line 7
+[26-Dec-2023 07:49:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000025_create_book_rating_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000025_create_book_rating_table.php on line 7
+[26-Dec-2023 07:49:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000028_create_routes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000028_create_routes_table.php on line 7
+[26-Dec-2023 07:49:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000029_create_transactions_detail_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000029_create_transactions_detail_table.php on line 7
+[26-Dec-2023 07:49:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000030_create_mobile_slider_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_01_18_000030_create_mobile_slider_table.php on line 7
+[26-Dec-2023 07:50:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055112_create_auth_codes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055112_create_auth_codes_table.php on line 7
+[26-Dec-2023 07:50:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055358_create_auth_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055358_create_auth_access_tokens_table.php on line 7
+[26-Dec-2023 07:50:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055504_create_auth_refresh_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055504_create_auth_refresh_tokens_table.php on line 7
+[26-Dec-2023 07:50:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055740_create_auth_clients_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055740_create_auth_clients_table.php on line 7
+[26-Dec-2023 07:50:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055852_create_auth_personal_access_clients_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/database/migrations/2020_05_07_055852_create_auth_personal_access_clients_table.php on line 7

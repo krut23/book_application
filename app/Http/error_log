@@ -1,0 +1,40 @@
+[26-Dec-2023 02:39:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/ramkabirbharat/public_html/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Http/Kernel.php on line 7
+[26-Dec-2023 02:39:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/ramkabirbharat/public_html/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Http/Kernel.php on line 7
+[26-Dec-2023 04:11:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/ramkabirbharat/public_html/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Http/Kernel.php on line 7
+[26-Dec-2023 04:12:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/ramkabirbharat/public_html/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Http/Kernel.php on line 7
+[26-Dec-2023 05:22:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/ramkabirbharat/public_html/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Http/Kernel.php on line 7
+[26-Dec-2023 05:22:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/ramkabirbharat/public_html/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Http/Kernel.php on line 7
+[26-Dec-2023 06:23:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/ramkabirbharat/public_html/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Http/Kernel.php on line 7
+[26-Dec-2023 06:23:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/ramkabirbharat/public_html/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Http/Kernel.php on line 7
+[26-Dec-2023 07:28:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/ramkabirbharat/public_html/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Http/Kernel.php on line 7
+[26-Dec-2023 07:33:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/ramkabirbharat/public_html/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ramkabirbharat/public_html/app/Http/Kernel.php on line 7
